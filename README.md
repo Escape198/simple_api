@@ -16,6 +16,9 @@ Open the project folder
 Install all modules
 >pip install -r requirements.txt
 
+Delete the migrations folder in the application, then:
+>python manage.py migrate
+
 
 Starting the server
 >python manage.py runserver
