@@ -1,4 +1,4 @@
-## Simple REST API with Python Django Rest Framework
+## Simple REST API with Python Django Rest Framework 🍪
 
 
 Create a virtual environment
