@@ -1,5 +1,5 @@
 ## Simple REST API with Python Django Rest Framework 🍪
-5
+
 
 Create a virtual environment
 >python -m venv env
